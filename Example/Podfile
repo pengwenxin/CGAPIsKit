@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CGAPIsKit_Example' do
+  pod 'CGAPIsKit', :path => '../'
+
+  target 'CGAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
