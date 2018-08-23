@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - CGAPIsKit (1):
+  - CGAPIsKit (2):
     - AFNetworking
 
 DEPENDENCIES:
@@ -30,7 +30,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  CGAPIsKit: 38b5726689723162edbdf5d9bc818affcd4dda6f
+  CGAPIsKit: 3572b67e777fd2f80daf1b80a9aeb1f4d5b2d67b
 
 PODFILE CHECKSUM: 026169492a994562f34120f217df441c6f4d8375
 
