@@ -1,0 +1,27 @@
+{
+  "name": "CGAPIsKit",
+  "version": "1",
+  "summary": "A short description of CGAPIsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengwenxin/CGAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengwenxin": "980120476@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/pengwenxin/CGAPIsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CGAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
